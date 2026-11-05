@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/Prathviraj-Singh/Leetcode/tree/master/0069-sqrtx) |
 | [0367-valid-perfect-square](https://github.com/Prathviraj-Singh/Leetcode/tree/master/0367-valid-perfect-square) |
 | [1486-xor-operation-in-an-array](https://github.com/Prathviraj-Singh/Leetcode/tree/master/1486-xor-operation-in-an-array) |
 ## Bit Manipulation
@@ -39,5 +40,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/Prathviraj-Singh/Leetcode/tree/master/0069-sqrtx) |
 | [0367-valid-perfect-square](https://github.com/Prathviraj-Singh/Leetcode/tree/master/0367-valid-perfect-square) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/Prathviraj-Singh/Leetcode/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
